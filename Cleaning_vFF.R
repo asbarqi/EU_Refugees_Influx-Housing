@@ -53,10 +53,9 @@ library(gganimate)
 library(ggthemes)
 library(ggridges)
 library(plotly)
-setwd("/Users/Asbarqi/Documents/Semester 2/R/Project/Final submission")
 
 
-
+setwd("Raw data/")
 #Loading .xlsx data downloaded from Eurostat
 hpi_raw <- read_excel("HPI_EU.xlsx", sheet = "Sheet 1", skip = 8)
 
