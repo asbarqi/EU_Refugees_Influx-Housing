@@ -55,7 +55,6 @@ library(ggthemes)
 library(ggridges)
 library(plotly)
 library(scales)
-setwd("/Users/Asbarqi/Documents/Semester 2/R/Project")
 ```
 
 # Introduction
